@@ -1,0 +1,22 @@
+1106-point
+gravity 170
+duration 300
+
+0001
+gravity
+
+0002
+gravity 60
+duration 800
+
+t02
+gravity 20
+duration 1800
+
+t01 - pass
+gravity 7
+duration 
+
+p-161124-1.3dm
+gravity 150
+duration 300
